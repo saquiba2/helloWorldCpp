@@ -7,7 +7,7 @@ script: scons
 #even the following could have been determined by default
 #minimally, you only need line 1.
 
-install: make get-deps
+#install: make get-deps
 
 #compiler:
 #  - clang
