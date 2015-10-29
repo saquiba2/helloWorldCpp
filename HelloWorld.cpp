@@ -3,8 +3,10 @@
 using namespace std;
 
 int main (){
-	int var=9;
+	int var = 9;
 
+	int i;
+	
 	for (i = 0; i<5; i++)
 	{
 		var = var + i;	
