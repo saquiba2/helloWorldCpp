@@ -12,7 +12,7 @@ int main (){
 		var = var + i;	
 	}
 
-	cout<<"hello world! var is: "<<var;
+	cout<<"hello world! var is: "<<var << "and arr[1]is: " << arr[1] <<endl;
 	
 	return 0;
 }
