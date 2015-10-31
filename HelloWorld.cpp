@@ -15,5 +15,6 @@ int main (){
 	cout<<"hello world! var is: "<<var << "and arr[1]is: " << arr[1] <<endl;
 	cout<<"This is the third of a series of 3 commits before sending a pull request." <<endl;
 	
+	cout<<"the change to fork this to a new project in my repository"<<endl;
 	return 0;
 }
