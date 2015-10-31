@@ -16,6 +16,10 @@ int main (){
 	cout<<"This is the third of a series of 3 commits before sending a pull request." <<endl;
 	
 	cout<<"Now my branch is ahead and different than saquiba2 's version."<<endl;
+	
+	for (int i = 0; i<5;i++){
+		cout<< ":-)    ";
+	}
 
 	
 	
