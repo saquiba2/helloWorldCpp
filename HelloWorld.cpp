@@ -21,8 +21,7 @@ int main (){
 		cout<< ":-)    ";
 	}
 	
-	cout<<"The third change ahead of saquiba2's version";
-	cout<<"Saquiba wrote blah blah blah";
+
 
 	
 	
