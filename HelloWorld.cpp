@@ -20,8 +20,15 @@ int main (){
 	for (int i = 0; i<5;i++){
 		cout<< ":-)    ";
 	}
-	cout<<"ahead of saquiba2 branch patch4, second change";
+//cout removed
 	
+	for (int i = 0; i<5;i++){		//added
+		cout<< ":-)    ";
+	}
+	
+	for (int i = 0; i<5;i++){		//added
+		cout<< ":-)    ";
+	}
 
 
 	cout<<"hi";
