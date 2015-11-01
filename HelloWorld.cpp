@@ -32,6 +32,9 @@ int main (){
 
 
 	cout<<"hi   ";
+	cout<<"add things befroe attending pull request.";
 	
+	cout<"Add";
+	cout<<"added";
 	return 0;
 }
