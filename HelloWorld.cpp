@@ -31,7 +31,7 @@ int main (){
 	}
 
 
-	cout<<"hi";
+	cout<<"hi   ";
 	
 	return 0;
 }
