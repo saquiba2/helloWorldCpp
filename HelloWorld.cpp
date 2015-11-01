@@ -16,7 +16,7 @@ int main (){
 	cout<<"This is the third of a series of 3 commits before sending a pull request." <<endl;
 
 
-	cout<<"now this branch, saquiba2's, is many commits behind the saquiba original branch. this is somethign added additionally though.";
+	cout<<"Now this branch, saquiba2's, is many commits behind the saquiba original branch. this is somethign added additionally though.";
 	
 	return 0;
 }
