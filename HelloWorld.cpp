@@ -7,6 +7,8 @@ int main (){
 	int arr [] = {1,2,3,4,5};
 	int i;
 	
+	cout<<"this is a change. revert to here";
+	
 	//removed the loop
 
 	cout<<"hello world! var is: "<<var << "and arr[1]is: " << arr[1] <<endl;
