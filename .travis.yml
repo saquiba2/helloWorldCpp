@@ -1,5 +1,5 @@
 language: cpp
-script: g++ HelloWorld.cpp
+#script: g++ HelloWorld.cpp
 
 
 #Hello World is simple as there are no special specs for it to run, 
